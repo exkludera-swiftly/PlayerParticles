@@ -25,7 +25,7 @@
 	<img width="200" height="250" alt="image" src="https://github.com/user-attachments/assets/1c704900-baa5-472f-b720-62a250ca6e0e" />
 	<img width="200" height="250" alt="image" src="https://github.com/user-attachments/assets/a84e0666-8cb0-4c35-9d51-58a23d8dbe17" />
 
-[workshop files.zip](https://github.com/user-attachments/files/24010202/workshop.files.zip)
+[workshop files](https://files.catbox.moe/bjlwyo.zip)
 
 </details>
 
